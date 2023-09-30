@@ -4,6 +4,4 @@
 
 ## The figma website was used to create the wirefram and mockup , and the links have been placed below :
 
-### [Wireframe](https://www.figma.com/file/4LrZXjXFxn2gitqrXznaYs/Untitled?type=design&node-id=0-1&mode=design&t=PbPlxwQGGasbDgRJ-0)
-
-### [Mockup](https://www.figma.com/file/IAbYvy7XkB9o0ExKJYToZb/Untitled?type=design&node-id=0-1&mode=design&t=ccg4n93EL2uxaFX9-0)
+### [Wireframe and Mockup](https://www.figma.com/file/4NsSLtxWr2tujDAZXsyB26/Website-Event-Ticketing-(Community)?type=design&node-id=311-2&mode=design&t=LBLTVgn50j1bRlrT-0)
